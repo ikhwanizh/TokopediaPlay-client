@@ -1,0 +1,27 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #1db954; /* Spotify green color */
+    padding: 10px;
+  }
+  
+  .profile-picture img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+  
+  .search-bar input {
+    width: 250px;
+    padding: 8px;
+    border: none;
+    border-radius: 20px;
+    background-color: #282828; /* Spotify dark background color */
+    color: #fff;
+    font-size: 16px;
+    outline: none;
+  }
+  
+  /* Add more styles for other elements as per your design */
+  
